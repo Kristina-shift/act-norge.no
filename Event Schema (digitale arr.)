@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "ACT-webinar: Introduksjon til aksept og forpliktelsesterapi",
+  "startDate": "2025-04-11T12:00",
+  "endDate": "2025-04-29T16:00",
+  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "https://zoom.us/"
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "Norsk Forening for Kontekstuell Atferdsvitenskap",
+    "url": "https://act-norge.no"
+  },
+  "performer": {
+    "@type": "Person",
+    "name": "Eli Alperstein, Olga Tingsted"
+  },
+  "description": "Dette kurset gir en introduksjon til ACT der du lærer grunnleggende ferdigheter 
+  som kan brukes i klinisk praksis, uavhengig av klientgruppe. ,
+  "image": "https://act-norge.no/I/introkurs-i-act/",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://act-norge.no/I/introkurs-i-act",
+    "price": "1600",
+    "priceCurrency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2025-03-15"
+  }
+}
