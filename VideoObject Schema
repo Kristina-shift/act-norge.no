@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Introduksjon til ACT",
+  "description": "En kort introduksjonsvideo om Aksept- og Forpliktelsesterapi (ACT).",
+  "thumbnailUrl": "https://din-nettside.no/video-thumbnail.jpg",
+  "uploadDate": "2025-03-04",
+  "contentUrl": "https://act-norge.no/video.mp4",
+  "embedUrl": "https://youtube.com/embed/videoid"
+}
