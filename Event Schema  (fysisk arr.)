@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "ACT-konferansen 2025",
+  "startDate": "2025-05-22T09:00",
+  "endDate": "2025-04-23T16:00",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "location": {
+    "@type": "Place",
+    "name": "Scandic Nidelven, Trondheim",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Havnegata 1-3",
+      "addressLocality": "Trondheim",
+      "postalCode": "7010",
+      "addressCountry": "NO"
+    }
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "Norsk Forening for Kontekstuell Atferdsvitenskap",
+    "url": "https://act-norge.no"
+  },
+  "performer": {
+    "@type": "Person",
+    "name": "Thomas Gustavsson, Erlend Rørvik, Thorvald Andersen, Olga Tingsted, Jon Arne Løkke, 
+  Marie Flataas, Hans Johansen, Martin Skagseth, Tone Harstad Iversen, Hanne Tenggren, Eli Alperstein"
+  },
+  "description": "Velkommen til ACT-konferansen 2025 med temaet ACT - fokusert og fleksibel.",
+  "image": "https://act-norge.no/page/I/act-konferansen-2024",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://din-nettside.no/paamelding",
+    "price": "student 2000",
+    "price": "medlem 3400/3800", 
+    "price": "ikke-medlem 3900/4300",
+    "priceCurrency": "NOK",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2025-03-01"
+  }
+}
