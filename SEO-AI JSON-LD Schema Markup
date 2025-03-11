@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Norsk Forening for Kontekstuell Atferdsvitenskap",
+  "url": "https://act-norge.no",
+  "logo": "https://act-norge.no/logo.png",
+  "description": "NFKA har mål om å bidra til kompetanseutvikling i metoder innen kontekstuell atferdsvitenskap",
+  "sameAs": [
+    "https://www.facebook.com/NFKA",
+    "https://www.linkedin.com/company/NFKA"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "email": "post@dact-norge.no",
+    "areaServed": "NO",
+    "availableLanguage": ["Norwegian", "English"]
+  }
+}
