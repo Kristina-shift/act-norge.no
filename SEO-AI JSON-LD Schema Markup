@@ -12,8 +12,8 @@
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "customer service",
-    "email": "post@dact-norge.no",
+    "email": "post@act-norge.no",
     "areaServed": "NO",
-    "availableLanguage": ["Norwegian", "English"]
+    "availableLanguage": ["Norwegian"]
   }
 }
